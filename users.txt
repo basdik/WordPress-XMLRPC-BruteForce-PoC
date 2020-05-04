@@ -1,5 +1,2 @@
-admin
-user
-helpdesk
-manager
-agent
+diskominfo
+seksimediakominfo
